@@ -21,7 +21,6 @@
 
 
 - 🔆 I’m currently in my "Final Year Of Engineering" and enjoying learning "Data Science!"
-- 🤹‍♂️ Check all of my completed / ongoing projects at [Jovian](https://jovian.ai/vigilantstars6)
 - 🧭 You can ping me at vishnuarun1.618@gmail.com 
 - ✨ I regularly blog on a plethora of topics like DS, History & Culture; check it out @ [Medium](https://medium.com/@vishnuarun)! 
 
