@@ -20,9 +20,9 @@
  </h2>
 
 
-- 🔆 I’m currently in my "Final Year Of Engineering" and enjoying learning "Data Science!"
-- 🧭 You can ping me at vishnuarun1.618@gmail.com 
-- ✨ I regularly blog on a plethora of topics like DS, History & Culture; check it out @ [Medium](https://medium.com/@vishnuarun)! 
+- 🔆 I’m currently building "Docflix" and looking for a fulltime Data Job!
+- 🧭 You can ping me at vishnuarun218@gmail.com 
+- ✨ I regularly blog on topics like DS, History & Culture; check it out @ [Medium](https://medium.com/@vishnuarun)! 
 
 
 ---
